@@ -1,5 +1,14 @@
 # TPS 2021 - Solutions list
 
+### [**TPS-September**](https://www.kaggle.com/c/tabular-playground-series-sep-2021)📊
+- 🥈 Place:[[Discussion](https://www.kaggle.com/c/tabular-playground-series-sep-2021/discussion/275740)]
+- 6th Place:[[Discussion](https://www.kaggle.com/c/tabular-playground-series-sep-2021/discussion/275690)]
+- 14th Place:[[Discussion](https://www.kaggle.com/c/tabular-playground-series-sep-2021/discussion/276141)]
+- 24th Place: [[Discussion](https://www.kaggle.com/c/tabular-playground-series-sep-2021/discussion/276038)]
+
+### [**TPS-August**](https://www.kaggle.com/c/tabular-playground-series-aug-2021)📊
+- 🥇 Place: Ensemble [[Code](https://www.kaggle.com/ivankontic/003-final-my-boost-1st-place?scriptVersionId=73878373)], [[Discussion](https://www.kaggle.com/c/tabular-playground-series-aug-2021/discussion/270051)]
+
 ### [**TPS-July**](https://www.kaggle.com/c/tabular-playground-series-jul-2021)📊
 - 🥇 Place: Ensemble [[Discussion](https://www.kaggle.com/c/tabular-playground-series-jul-2021/discussion/256486)]
 
